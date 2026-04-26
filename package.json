@@ -1,0 +1,16 @@
+{
+  "name": "finedge-pro",
+  "version": "1.0.0",
+  "description": "FinEdge Pro — DCF Valuation + Scenario Engine + Portfolio Intelligence + AI Analyst by Ritesh Kale",
+  "private": true,
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "devDependencies": {
+    "vercel": "latest"
+  }
+}
